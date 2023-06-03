@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: 2ab467189bcf35a418d0c8566c7396ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - speech_bubble: {instanceID: 0}
+  - speech_bubble_text: {instanceID: 0}
+  - PlantPicture: {instanceID: 0}
+  - PlayerPicture: {instanceID: 0}
+  - PanelImage1: {instanceID: 0}
+  - QuizImage1: {instanceID: 0}
+  - QuizText1: {instanceID: 0}
+  - OneAnswer1: {instanceID: 0}
+  - OneAnswer2: {instanceID: 0}
+  - OneAnswer3: {instanceID: 0}
+  - OneAnswer4: {instanceID: 0}
+  - PanelImage2: {instanceID: 0}
+  - PanelImage2_1: {instanceID: 0}
+  - SubQuiz1: {instanceID: 0}
+  - SubQuiz2: {instanceID: 0}
+  - SubQuiz3: {instanceID: 0}
+  - SubQuiz4: {instanceID: 0}
+  - SubQuiz5: {instanceID: 0}
+  - SubQuiz6: {instanceID: 0}
+  - QuizText2: {instanceID: 0}
+  - Answer2_1: {instanceID: 0}
+  - Answer2_2: {instanceID: 0}
+  - Answer2_3: {instanceID: 0}
+  - EX1: {instanceID: 0}
+  - EX2: {instanceID: 0}
+  - EX3: {instanceID: 0}
+  - EX4: {instanceID: 0}
+  - EX5: {instanceID: 0}
+  - EX6: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

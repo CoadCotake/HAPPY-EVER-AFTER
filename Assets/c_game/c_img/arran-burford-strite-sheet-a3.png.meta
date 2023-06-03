@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 7e2125cc447abab4ca1f8bc6af090f38
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: arran-burford-strite-sheet-a3_0
+    21300002: arran-burford-strite-sheet-a3_1
+    21300004: arran-burford-strite-sheet-a3_2
+    21300006: arran-burford-strite-sheet-a3_3
+    21300008: arran-burford-strite-sheet-a3_4
+    21300010: arran-burford-strite-sheet-a3_5
+    21300012: arran-burford-strite-sheet-a3_6
+    21300014: arran-burford-strite-sheet-a3_7
+    21300016: arran-burford-strite-sheet-a3_8
+    21300018: arran-burford-strite-sheet-a3_9
+    21300020: arran-burford-strite-sheet-a3_10
+    21300022: arran-burford-strite-sheet-a3_11
+    21300024: arran-burford-strite-sheet-a3_12
+    21300026: arran-burford-strite-sheet-a3_13
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_0
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 926
+        width: 201
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 926
+        width: 211
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 494
+        width: 222
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 494
+        width: 211
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_4
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 494
+        width: 221
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_5
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 494
+        width: 190
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_6
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 494
+        width: 222
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_7
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 494
+        width: 232
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 74
+        width: 222
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_9
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 74
+        width: 191
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_10
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 73
+        width: 232
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_11
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 73
+        width: 253
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_12
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 74
+        width: 232
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arran-burford-strite-sheet-a3_13
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 73
+        width: 201
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

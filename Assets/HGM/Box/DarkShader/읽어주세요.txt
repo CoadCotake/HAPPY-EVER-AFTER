@@ -1,0 +1,43 @@
+라이센스 : https://creativecommons.org/licenses/by/1.0/legalcode
+
+닉네임 : Mirusona
+
+음... 닉네임을 크레딧에 추가해주시면 좋지만,
+굳이 안해주셔도 상관없습니다
+
+
+------------------------------------ 함수 ----------------------------------------
+
+1. CreateNormalLight : 보통 조명을 생성하실 수 있습니다.
+- position : Vector2
+- size : float(0f ~ 2f)
+- bright : float(0f ~ 2f)
+
+1-1. CreateNormalLight : 보통 조명을 생성하면서 인덱스를 받으실 수 있습니다.
+- index : int 변수(변수를 초기화 해주세요) -> 매개변수에 넣을 시 "ref" 키워드를 붙여야 합니다.
+- position : Vector2
+- size : float(0f ~ 2f)
+- bright : float(0f ~ 2f)
+
+2. UpdateNormalLight : 보통 조명을 갱신하실 수 있습니다.(index값이 필요합니다.)
+- index : 생성할때 주는 index
+- position : Vector2
+- size : float(0f ~ 2f)
+- bright : float(0f ~ 2f)
+
+3. DeleteNormalLight : 보통 조명을 삭제하실 수 있습니다.(index값이 필요합니다.)
+- index : 생성할때 주는 index
+
+4. CreateFadeLight : 커졌다 작아지는 빛을 생성하실 수 있습니다.
+- position : Vector2
+- size : float(0f ~ 2f)
+- speed : float(0.001f ~ 1f) -> 커졌다 작아지는 속도
+- bright : float(0f ~ 2f)
+
+------------------------------------ 사용법 ----------------------------------------
+
+*예제 스크립트를 봐주세요!
+-> NormalLightEX
+-> FadeLightEX
+-> MoveLightEX
+-> LightBall

@@ -1,0 +1,866 @@
+fileFormatVersion: 2
+guid: c35ce18bb0f55874a95611587326b32e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pngkey.com-doors-png-958715_0
+    21300002: pngkey.com-doors-png-958715_1
+    21300004: pngkey.com-doors-png-958715_2
+    21300006: pngkey.com-doors-png-958715_3
+    21300008: pngkey.com-doors-png-958715_4
+    21300010: pngkey.com-doors-png-958715_5
+    21300012: pngkey.com-doors-png-958715_6
+    21300014: pngkey.com-doors-png-958715_7
+    21300016: pngkey.com-doors-png-958715_8
+    21300018: pngkey.com-doors-png-958715_9
+    21300020: pngkey.com-doors-png-958715_10
+    21300022: pngkey.com-doors-png-958715_11
+    21300024: pngkey.com-doors-png-958715_12
+    21300026: pngkey.com-doors-png-958715_13
+    21300028: pngkey.com-doors-png-958715_14
+    21300030: pngkey.com-doors-png-958715_15
+    21300032: pngkey.com-doors-png-958715_16
+    21300034: pngkey.com-doors-png-958715_17
+    21300036: pngkey.com-doors-png-958715_18
+    21300038: pngkey.com-doors-png-958715_19
+    21300040: pngkey.com-doors-png-958715_20
+    21300042: pngkey.com-doors-png-958715_21
+    21300044: pngkey.com-doors-png-958715_22
+    21300046: pngkey.com-doors-png-958715_23
+    21300048: pngkey.com-doors-png-958715_24
+    21300050: pngkey.com-doors-png-958715_25
+    21300052: pngkey.com-doors-png-958715_26
+    21300054: pngkey.com-doors-png-958715_27
+    21300056: pngkey.com-doors-png-958715_28
+    21300058: pngkey.com-doors-png-958715_29
+    21300060: pngkey.com-doors-png-958715_30
+    21300062: pngkey.com-doors-png-958715_31
+    21300064: pngkey.com-doors-png-958715_32
+    21300066: pngkey.com-doors-png-958715_33
+    21300068: pngkey.com-doors-png-958715_34
+    21300070: pngkey.com-doors-png-958715_35
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b349a353ae52f994282cc589e7a203e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 440.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad019f8f34474044a5a27ffb5030d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 440.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c24e9ed06272144b7b920d5d0bc34e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 440.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e755d77efe310419576aed58656029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 440.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d58da628452e84ea32fe04caa9cd63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 440.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61cddf8f32457840a2400e2d14622a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aca6628c91ff24984410f015cbe246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 352.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b4da9f2efacfa4dab8cde85d0d220c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 352.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e025b0936d6ca8d4eb651f637b7ce7f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 352.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b56d66fb384f1b4c9644e5d82e1f015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 352.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ad72083bc6a524a802b2cc36ba081b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 352.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb67ae00b722e3148874688a491fa715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbf0620bb72e45479bec5f0c8740560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 264.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194f9fcb5bf41b04fa223fa489ea052e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 264.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54be35911552fbd48aaaaef41a2f0922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 264.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5610950a73f3704db138b2610bd3e81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 264.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ec661970f0f4144ae735d6e323f7dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 264.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead91481946fe54a854764c377679f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3dac75a64a70b4182e3de2e731e350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 176.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3747d6856cedcef41b63fbb167f2c868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_20
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 176.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dcfb34d2c710b46bf604fa7f43ff70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 176.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cce1d81e1683ab48ae9470d9c215cf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 176.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32f1d10beb47914cb7cd7c28f626979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 176.83334
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdee5e508882e65409fd36a3c3bb60be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688a053f8e9452e49a4be689cfd70535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 88.833336
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd56b5549dbc1f245a75d10cc7234ee5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_26
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 88.833336
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b20b191888dab4888cddd1102c519e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 88.833336
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a4e167a98b4324c96444a474b7524f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 88.833336
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133c398dba4bf4d4ba9e29d65845ea9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_29
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 88.833336
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e386638e3f05b954dbd9f563e5a29600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890f7dcc4616f8d40937c25357737261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 65
+      alignment: 9
+      pivot: {x: 0.6056074, y: 0.5688602}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f09481bf69127e408aee214aaa418d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0.8333359
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96df0d539801cb74e9f85df78a56d921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_33
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0.8333359
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da2dc877ffb24242b85f540b8c64f95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0.8333359
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051d5ebdcebda144dbedccf7f3bc0156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngkey.com-doors-png-958715_35
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0.8333359
+        width: 59.5
+        height: 88.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7677dfacb4e24384b8ef91faf751a360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0d3c3825de6f38e469065f240ba7d5a8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
